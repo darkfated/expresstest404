@@ -1,0 +1,22 @@
+$primary-color: #3498db;
+$hover-color: #2980b9;
+$main-font: Arial, sans-serif;
+
+body {
+  font-family: $main-font;
+}
+
+.my-button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: $primary-color;
+  color: white;
+  border: none;
+  border-radius: 5px;
+
+  &:hover {
+    background-color: $hover-color;
+    cursor: pointer;
+  }
+}
