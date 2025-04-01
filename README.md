@@ -6,6 +6,10 @@
 ![2](https://github.com/user-attachments/assets/57720455-6c84-497e-9ae3-fb7809d0f7ac)
 
 ## Документация
+Установка зависимостей
+```
+npm install
+```
 Запуск
 ```bash
 npm run start
